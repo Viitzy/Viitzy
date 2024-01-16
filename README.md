@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Hugo</h1>
-<h3 align="center">Currently working with fullstack on Sisloc Softwares</h3>
+<h3 align="center">Currently working in Image Analisys</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viitzy" alt="viitzy" /></a> </p>
-
-- 🌱 I’m currently learning **Angular, .NET, Docker, MongoDB, VUE**
 
 - 📫 How to reach me **victorsa6@hotmail.com**
 
