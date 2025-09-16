@@ -10,19 +10,19 @@
 ### 👨‍💻 About Me
 
 <p>
-  [cite_start]I'm a Computer Science graduate passionate about solving complex problems through code, data, and intelligent systems[cite: 17]. [cite_start]With 4 years of professional experience, I've worked across backend development, infrastructure, data science, and computer vision[cite: 18].
+  I'm a Computer Science graduate passionate about solving complex problems through code, data, and intelligent systems. With 4 years of professional experience, I've worked across backend development, infrastructure, data science, and computer vision.
 </p>
 
 <p>
-  [cite_start]Currently, as a <b>Backend Engineer</b> at a Brazilian proptech startup, I lead the development of scalable microservices, real-time 3D rendering integrations with Blender, and high-performance data systems using Python, GCP, Kubernetes, and RabbitMQ[cite: 19, 27, 28, 29, 33].
+  Currently, as a <b>Backend Engineer</b> at a Brazilian proptech startup, I lead the development of scalable microservices, real-time 3D rendering integrations with Blender, and high-performance data systems using Python, GCP, Kubernetes, and RabbitMQ.
 </p>
 
 <p>
-  [cite_start]I am deepening my knowledge by pursuing a <b>postgraduate degree in Artificial Intelligence and Machine Learning</b>[cite: 20]. [cite_start]I'm fluent in English, persistent, solution-oriented, and thrive in team environments[cite: 21].
+  I am deepening my knowledge by pursuing a <b>postgraduate degree in Artificial Intelligence and Machine Learning</b>. I'm fluent in English, persistent, solution-oriented, and thrive in team environments.
 </p>
 
 <p>
-  [cite_start]📫 You can reach me at: <b>vhsparreiras@gmail.com</b> [cite: 2]
+  📫 You can reach me at: <b>vhsparreiras@gmail.com</b>
 </p>
 
 ---
