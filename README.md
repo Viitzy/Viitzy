@@ -1,10 +1,6 @@
 <h1 align="center">Hi, I'm Victor Hugo De Sá Parreiras 👋</h1>
 <h3 align="center">Backend Engineer | Data Science & Computer Vision Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=viitzy" alt="viitzy" /></a>
-</p>
-
 ---
 
 ### 👨‍💻 About Me
